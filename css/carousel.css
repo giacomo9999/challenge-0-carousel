@@ -1,8 +1,10 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: relative;
+  height: 500px;
+  /* position: relative; */
   margin: auto;
+  /* object-fit: cover; */
 }
 
 /* Next & previous buttons */
